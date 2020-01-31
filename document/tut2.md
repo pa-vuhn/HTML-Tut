@@ -16,7 +16,7 @@ body {
 add below source code into `index.html` at line 12, the source code after updated like that:
 
 ````
-
+// File content
 ```
 
 2.2 Styleing sidebar
@@ -24,8 +24,5 @@ add below source code into `index.html` at line 12, the source code after update
 
 
 2.3 Styling main content
-
-
-Con
 
 
